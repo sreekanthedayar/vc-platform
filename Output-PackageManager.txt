@@ -1,4 +1,23 @@
-﻿NuGet package restore finished.
-Time Elapsed: 00:01:01.4967726
+﻿
+
+Attempting to gather dependency information for multiple packages with respect to project 'VirtoCommerce.Platform.Web', targeting '.NETFramework,Version=v4.6.1'
+Gathering dependency information took 2.91 min
+Attempting to resolve dependencies for multiple packages.
+Resolving dependency information took 0 ms
+Resolving actions install multiple packages
+Retrieving package 'System.Security.Principal.Windows 4.5.1' from 'nuget.org'.
+  GET https://api.nuget.org/v3-flatcontainer/system.security.principal.windows/4.5.1/system.security.principal.windows.4.5.1.nupkg
+Removed package 'System.Security.Principal.Windows 4.5.0' from 'packages.config'
+  OK https://api.nuget.org/v3-flatcontainer/system.security.principal.windows/4.5.1/system.security.principal.windows.4.5.1.nupkg 1156ms
+Successfully uninstalled 'System.Security.Principal.Windows 4.5.0' from VirtoCommerce.Platform.Web
+Installing System.Security.Principal.Windows 4.5.1.
+Adding package 'System.Security.Principal.Windows.4.5.1' to folder 'C:\vc-platform\packages'
+Added package 'System.Security.Principal.Windows.4.5.1' to folder 'C:\vc-platform\packages'
+Added package 'System.Security.Principal.Windows.4.5.1' to 'packages.config'
+Successfully installed 'System.Security.Principal.Windows 4.5.1' to VirtoCommerce.Platform.Web
+Removing package 'System.Security.Principal.Windows 4.5.0' from folder 'C:\vc-platform\packages'
+Removed package 'System.Security.Principal.Windows 4.5.0' from folder 'C:\vc-platform\packages'
+Executing nuget actions took 11.74 sec
+Time Elapsed: 00:03:06.6341598
 ========== Finished ==========
 
